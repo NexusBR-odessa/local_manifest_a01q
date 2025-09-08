@@ -6,7 +6,7 @@
   <project path="device/samsung/sdm439"
            name="android_device_samsung_sdm439"
            remote="nexus"
-           revision="lineage-18.1" />
+           revision="Android-11" />
 
   <project path="vendor/samsung/m01q"
            name="android_vendor_samsung_m01q"
