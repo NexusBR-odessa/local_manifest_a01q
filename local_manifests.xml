@@ -11,5 +11,10 @@
   <project path="vendor/samsung/m01q"
            name="android_vendor_samsung_m01q"
            remote="nexus"
-           revision="lineage-18.1" />  
+           revision="lineage-18.1" /> 
+
+    <project path="kernel/samsung/m01q"
+           name="caf_kernel_samsung_m01q"
+           remote="nexus"
+           revision="default" /> 
 </manifest>
