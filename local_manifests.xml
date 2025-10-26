@@ -3,10 +3,10 @@
   <remote name="nexus" fetch="https://github.com/NexusBR-odessa"/>
 
 <!--Trees-->
-  <project path="device/samsung/sdm439"
-           name="android_device_samsung_sdm439"
+  <project path="device/samsung/m01q"
+           name="device_samsung_m01q"
            remote="nexus"
-           revision="Android-11" />
+           revision="lineage-18.1" />
 
   <project path="vendor/samsung/m01q"
            name="android_vendor_samsung_m01q"
