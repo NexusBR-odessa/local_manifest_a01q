@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="nexus" fetch="https://github.com/NexusBR-odessa"/>
+  <remote name="ifood" fetch="https://github.com/ifoodplayer"/>
 
 <!--Trees-->
   <project path="device/samsung/m01q"
@@ -14,7 +15,7 @@
            revision="lineage-18.1" /> 
 
     <project path="kernel/samsung/m01q"
-           name="caf_kernel_samsung_m01q"
-           remote="nexus"
-           revision="default" /> 
+           name="android_kernel_samsung_a01q"
+           remote="ifood"
+           revision="lineage-19.1" /> 
 </manifest>
