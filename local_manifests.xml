@@ -4,7 +4,7 @@
 
 <!--Trees-->
   <project path="device/samsung/a01q"
-           name="device_samsung_a01q"
+           name="android_device_samsung_a01q"
            remote="axl"
            revision="lineage-20" />
 
